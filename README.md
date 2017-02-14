@@ -1,3 +1,4 @@
+<pre>
 Usage: 
 Tool to export data from a relational database to different formats. Currently it is possible to export
 data from oracle, mysql or postgres databases to csv and xml. There will be support for json as soon as
@@ -51,3 +52,4 @@ Options:
                         indent character
 
   JSON export options:
+  </pre>
